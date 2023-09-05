@@ -1,4 +1,4 @@
-# (c) @AbirHasan2005
+# (c) @fireispower
 
 import os
 import logging
