@@ -14,7 +14,7 @@ logging.basicConfig(
 class Config(object):
     API_ID = int(os.environ.get("API_ID", "7350195"))
     API_HASH = os.environ.get("API_HASH", "b4105c3fddc4474048dfe79683555d0c")
-    BOT_TOKEN = os.environ.get("BOT_TOKEN", "6412599320:AAFde10xeuFFaSfGOnbDVL57jATTtBQDMF8")
+    BOT_TOKEN = os.environ.get("BOT_TOKEN", "6481542855:AAG223T5llmPOlrbMUbfYPKyMS3XR--lLbc")
     DOWNLOAD_DIR = os.environ.get("DOWNLOAD_DIR", "./downloads")
     LOGGER = logging
     OWNER_ID = int(os.environ.get("OWNER_ID", 817237333))
